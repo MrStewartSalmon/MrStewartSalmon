@@ -1,6 +1,5 @@
 ## Hi there im Stewart 👋
 
-<!--
 Stewart Salmon
 Aspiring AWS Solutions Architect | AWS Certified Cloud Practitioner |
 
