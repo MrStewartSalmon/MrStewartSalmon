@@ -14,4 +14,3 @@ Feel free to explore my projects and reach out if you have any questions or coll
 You can reach me on:
 
 stewartsalmon@mail.com
--->
