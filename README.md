@@ -1,7 +1,7 @@
 ## Hi there im Stewart 👋
 
 Stewart Salmon
-Aspiring AWS Solutions Architect | AWS Certified Cloud Practitioner |
+Certified AWS Solutions Architect | AWS Certified Cloud Practitioner |
 
 Hello! I'm Stewart Salmon, a passionate and dedicated learner on a journey to become an AWS Solutions Architect. With a strong foundation in cloud computing, I have successfully earned my AWS Certified Cloud Practitioner certification and am currently preparing for the AWS Solutions Architect certification exam.
 
