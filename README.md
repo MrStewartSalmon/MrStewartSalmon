@@ -43,5 +43,3 @@ You can reach me at:
 
 447775577145
 
-om
-com
