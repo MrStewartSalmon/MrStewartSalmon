@@ -1,16 +1,47 @@
-## Hi there im Stewart 👋
+# Hi, I’m Stewart Salmon 👋
 
-Stewart Salmon
-Certified AWS Solutions Architect | AWS Certified Cloud Practitioner |
+**AWS Certified | DevOps Engineer in Training | London, UK**
 
-Hello! I'm Stewart Salmon, a passionate and dedicated learner on a journey to become an AWS Solutions Architect. With a strong foundation in cloud computing, I have successfully earned my AWS Certified Cloud Practitioner certification and am currently preparing for the AWS Solutions Architect certification exam.
+I’m building practical skills in cloud infrastructure, automation, and software delivery, with the goal of becoming a **remote DevOps Engineer**.
 
-By day, I work full-time as a property sourcer, a role that demands keen analytical skills, attention to detail, and the ability to manage complex projects. By night (and any other spare moment), I immerse myself in the world of AWS, enhancing my skills and knowledge in cloud computing.
+I hold the **AWS Certified Cloud Practitioner** and **AWS Certified Solutions Architect – Associate** certifications. I’m currently completing **Nana Janashia’s TechWorld with Nana DevOps Bootcamp**, putting my cloud knowledge into practice through hands-on projects.
 
-Balancing a full-time job with part-time studies can be challenging, but my commitment to professional growth and my enthusiasm for cloud technologies keep me motivated. Through my GitHub repository, I aim to share my learning journey, contribute to open-source projects, and connect with like-minded professionals in the tech community.
+## Certifications
 
-Feel free to explore my projects and reach out if you have any questions or collaboration ideas. Let's build something amazing together!
+- **AWS Certified Cloud Practitioner**
+- **AWS Certified Solutions Architect – Associate**
 
-You can reach me on:
+## What I’m Working On
 
-stewartsalmon@mail.com
+Through my bootcamp and project work, I’m developing skills in:
+
+- **Cloud:** AWS and cloud architecture
+- **Systems:** Linux administration and shell scripting
+- **Version control:** Git and GitHub
+- **Containers:** Docker
+- **CI/CD:** Jenkins and automated build pipelines
+- **Build tools and artifacts:** Maven, Gradle, and Nexus
+
+As I progress, I’m expanding my knowledge of **Terraform, Kubernetes, infrastructure as code, and monitoring**.
+
+## My Approach to Projects
+
+I use GitHub to document what I build, how it works, and the problems I solve along the way.
+
+My focus is on producing projects with clear setup instructions, useful architecture explanations, reusable commands, and troubleshooting notes. I want someone reviewing my work to understand both the implementation and the reasoning behind it.
+
+## Career Goal
+
+I’m working towards a remote DevOps role where I can contribute to reliable cloud infrastructure, automate repeatable tasks, and improve software delivery.
+
+I’m interested in connecting with engineering teams that value practical problem-solving, clear documentation, and continuous learning.
+
+📍 **London, United Kingdom**  
+🌍 **Interested in remote DevOps and cloud engineering opportunities**
+
+You can reach me at:
+
+447775577145
+
+stewartsalmon@mail.c
+om
